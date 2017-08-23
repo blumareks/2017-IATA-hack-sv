@@ -1,0 +1,24 @@
+PODS:
+  - BMSAnalyticsAPI (2.2.1)
+  - BMSCore (2.3.2):
+    - BMSAnalyticsAPI (~> 2.2)
+  - JSQMessagesViewController (7.3.4):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - SwiftSpinner (1.3.0)
+
+DEPENDENCIES:
+  - BMSCore (~> 2.0)
+  - JSQMessagesViewController (~> 7.3.4)
+  - SwiftSpinner (~> 1.3.0)
+
+SPEC CHECKSUMS:
+  BMSAnalyticsAPI: 2e07dee6452e3cdbdc5fd0ee7362b66a281e3963
+  BMSCore: 30674d30566134125e9bee043ccbea652445ca92
+  JSQMessagesViewController: 39fed975e3c9f8eba7292071e29eeb541d105e66
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  SwiftSpinner: c249fffed3e74b5f3e6492dcc05d6bc1525a8220
+
+PODFILE CHECKSUM: 89aa545d0a26238aa2fc4c2ce6fe2b473b14113e
+
+COCOAPODS: 1.1.1
