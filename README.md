@@ -13,4 +13,10 @@ In order to create the chatbot with IBM technologies you need to do the followin
 - finally you can leverage the json with the example dialog (entities, intents, dialog) by importing it - feel free to use the provided [IATA_hackathon_2017SV_travel_chatbot.json](IATA_hackathon_2017SV_travel_chatbot.json) - that was developed during the webcast!
 - then you need to bind the conversation workspace id with the code
 
+```swift
+let conversationWorkspaceID = "ed4a90de-4705-4dd1-b79d-c5ad1d129430" //add the workspace ID from Dialog at the Conversation Service.
+//Workspace ID for Dialog needs to come from the IBM Conversation service - check its dashboard for details 
+
+```
+
 Follow me on twitter: @blumareks and my blog blumareks.blogspot.com
