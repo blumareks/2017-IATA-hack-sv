@@ -1,6 +1,10 @@
 # 2017-IATA-hack-sv
 This is a repo for IATA Hack in Silicon Valley in 2017. If you use it please give me a star - thank you!
 
+![IATA hackathon Watson Chatbot](IATA_chatbot.png)
+
+The chatbot created with IBM Watson Conversation service and Web & Mobile project in 30 minutes.
+
 In order to create the chatbot with IBM technologies you need to do the following steps:
 
 - sign up for [http://bluemix.net](bluemix.net)
